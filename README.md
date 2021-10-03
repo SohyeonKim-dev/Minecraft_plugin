@@ -1,2 +1,4 @@
 # Minecraft_plugin
-🕹 minecraft plugin development ⛏
+# 🕹 minecraft plugin development ⛏
+
+## metaverse project - Kyunghee University minecraft server
