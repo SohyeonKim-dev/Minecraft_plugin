@@ -6,12 +6,12 @@ public class pluginclass_1 extends JavaPlugin {
 	
     @Override
     public void onEnable(){
-    	getLogger().info("onEnable has been invoked! pluginclass_1 ÇÃ·¯±×ÀÎÀÌ È°¼ºÈ­µÇ¾ú½À´Ï´Ù.");
+    	getLogger().info("onEnable has been invoked! pluginclass_1 í”ŒëŸ¬ê·¸ì¸ì´ í™œì„±í™”ë˜ì—ˆìŠµë‹ˆë‹¤.");
     }
     
     @Override
     public void onDisable() {
-    	getLogger().info("onDisable has been invoked! pluginclass_1 ÇÃ·¯±×ÀÎÀÌ ºñÈ°¼ºÈ­µÇ¾ú½À´Ï´Ù.");
+    	getLogger().info("onDisable has been invoked! pluginclass_1 í”ŒëŸ¬ê·¸ì¸ì´ ë¹„í™œì„±í™”ë˜ì—ˆìŠµë‹ˆë‹¤.");
     }
     
 }
